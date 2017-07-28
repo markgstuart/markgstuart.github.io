@@ -4,24 +4,18 @@ Over time, I plan to develop my understanding of coding through GitHub, with the
 
 My journey will be captured and shared on this page so you can follow my journey. I'd greatly appreciate any support on my journey, so please critique my work as you see fit - I feel this will be a steep learning curve, but one I'm extremely passionate about undertaking. 
 
-### Markdown
+### Who am I?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 I'm currently a social media analyst at BBC Scotland, working across all of our output. 
-While various apps support the way I analyse data, and I'm dabbling with visualisation platforms, 
-I realise that learning code will greatly help my journey throughout my career.
+While various apps support the way I analyse data, and I'm dabbling with visualisation platforms, I realise that learning code will greatly help my journey throughout my career.
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Get in touch
 
 You can find me on 
 - [Twitter](https://www.twitter.com/markstuart46)
 - [Medium](https://medium.com/@MarkStuart)
+
+### Below this is the standard blurb...
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
