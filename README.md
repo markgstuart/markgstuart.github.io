@@ -6,7 +6,7 @@ Over time, I plan to develop my understanding of coding through GitHub, with the
 My journey will be captured and shared on this page so you can follow my journey. I'd greatly appreciate any support on my journey, so please critique my work as you see fit - I feel this will be a steep learning curve, but one I'm extremely passionate about undertaking. 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
