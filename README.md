@@ -13,16 +13,15 @@ I'm currently a social media analyst at BBC Scotland, working across all of our 
 While various apps support the way I analyse data, and I'm dabbling with visualisation platforms, 
 I realise that learning code will greatly help my journey throughout my career.
 
-**You can find me on 
-- Twitter [Twitter](https://www.twitter.com/markstuart46)
-- [Medium](https://medium.com/@MarkStuart)**
-
-
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+
+You can find me on 
+- [Twitter](https://www.twitter.com/markstuart46)
+- [Medium](https://medium.com/@MarkStuart)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
