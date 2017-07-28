@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Mark's GitHub homepage
 
-You can use the [editor on GitHub](https://github.com/markgstuart/markgstuart.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Over time, I plan to develop my understanding of coding through GitHub, with the aim of gathering an understanding of Python to support my work in manipulating and pulling data from Facebook's API.
+
+My journey will be captured and shared on this page so you can follow my journey. I'd greatly appreciate any support on my journey, so please critique my work as you see fit - I feel this will be a steep learning curve, but one I'm extremely passionate about undertaking. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
