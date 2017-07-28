@@ -2,18 +2,14 @@
 
 Over time, I plan to develop my understanding of coding through GitHub, with the aim of gathering an understanding of Python to support my work in manipulating and pulling data from Facebook's API.
 
-
 My journey will be captured and shared on this page so you can follow my journey. I'd greatly appreciate any support on my journey, so please critique my work as you see fit - I feel this will be a steep learning curve, but one I'm extremely passionate about undertaking. 
-
-
-If you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+I'm currently a social media analyst at BBC Scotland, working across all of our output. While various apps support the way I analyse data, and I'm dabbling with visualisation platforms, I realise that learning code will greatly help my journey throughout my career.
 
 # Header 1
 ## Mark Tested Header 2
