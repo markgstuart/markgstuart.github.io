@@ -9,17 +9,15 @@ My journey will be captured and shared on this page so you can follow my journey
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-I'm currently a social media analyst at BBC Scotland, working across all of our output. While various apps support the way I analyse data, and I'm dabbling with visualisation platforms, I realise that learning code will greatly help my journey throughout my career.
+I'm currently a social media analyst at BBC Scotland, working across all of our output. 
+While various apps support the way I analyse data, and I'm dabbling with visualisation platforms, 
+I realise that learning code will greatly help my journey throughout my career.
 
-# Header 1
-## Mark Tested Header 2
-### Header 3
+**You can find me on 
+- Twitter [Twitter](https://www.twitter.com/markstuart46)
+- [Medium](https://medium.com/@MarkStuart)**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
